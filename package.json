@@ -1,0 +1,27 @@
+{
+  "name": "2048",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qq1962/bns2048.git"
+  },
+  "keywords": [
+    "2048"
+  ],
+  "author": "qq1962",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qq1962/bns2048/issues"
+  },
+  "homepage": "https://github.com/qq1962/bns2048#readme",
+  "dependencies": {
+    "base64url": "^3.0.1",
+    "js-base64": "^2.5.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
